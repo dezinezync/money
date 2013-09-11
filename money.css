@@ -5,8 +5,8 @@
  *	By Nikhil Nigade (@dezinezync)
  */
  
- //Enforce character-set
- @charset "UTF-8";
+/*Enforce character-set
+@charset "UTF-8";*/
  
 .money {
 	color: #59bf26;
