@@ -15,7 +15,7 @@
 }
 .money:before,
 .money::before {
-	content: '\20B9';
+	content: 'Rs. ';
 	padding-right: 3px;
 	display: inline-block;
 }
